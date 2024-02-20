@@ -3,7 +3,7 @@
 Video Link of said project: https://www.youtube.com/watch?v=W4Ii7niN2v8&t=245s
 
 
-This repository is going to consist of the code used for the project I've done over the Fall 2019 semester for CS207, as well as the materials used and on how to replicate it.
+This repository is going to consist of the code used for the project, as well as the materials used and on how to replicate it.
 
 
 I will be basing my project off of a project done by Jason Poel Smith from makezine.com. His project comprises of a toy water gun that shoots water out to anyone who may walk in front of it. It utilizes an infrared motion sensor and an Arduino. When a person walks in front of the PIR sensor, the sensor sends a signal to the Arduino which in turn activates a relay that is connected to the trigger and it then fires the gun. 
