@@ -1,4 +1,4 @@
-Water Gun Turret: Arduino Project
+# Water Gun Turret: Arduino Project
 
 Video Link of said project: https://www.youtube.com/watch?v=W4Ii7niN2v8&t=245s
 
